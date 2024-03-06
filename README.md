@@ -1,3 +1,3 @@
 # git_test
-hi
+this is a tutorial
 hello odin
